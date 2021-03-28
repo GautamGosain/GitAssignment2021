@@ -2034,4 +2034,18 @@ contacts: [
         },
     ]
 }
+{
+    entryNum: 804,
+    name : 'Gautam Gosain',
+    branch: 'MT1',
+    about: 'I like to explore new stuff',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/gautamgosain04/'
+        },
+    ]
+}
+
 ];
